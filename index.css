@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+   text-align: center;
+   position: relative;
+   background: #1B244A;
+  
+}
+.header{
+    text-align: center;
+    color: aquamarine;
+    position:relative;
+    line-height: 36px;
+
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    
+
+}
+
+.column{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    color: white;
+    text-align: center;
+}
+
+.score{
+    
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 195px;
+    margin: 20px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-style: Regular;
+    font-size: 90px;
+    line-height: 126.67px;
+    text-align: Center;
+    vertical-align: Top;
+    position: relative;
+
+}
+
+button{
+    background: none;
+    box-sizing: border-box;
+    position: relative;
+    border: 2.5px solid #9AABD8;
+    border-radius: 5px;
+    color: #9AABD8;
+    width: 55px;
+    height: 35px;
+    
+
+    
+ 
+}
